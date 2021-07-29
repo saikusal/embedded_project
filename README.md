@@ -32,6 +32,4 @@ PWM output and temperature displayed on the serial monitor will be according to 
 ![Final Output](simulation/final_output.JPG)
 #### CI and Code Quality
 
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/saikusal/embedded_project/actions/workflows/Compile.yml/badge.svg)](https://github.com/saikusal/embedded_project/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/saikusal/embedded_project/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/saikusal/embedded_project/actions/workflows/CodeQulaity.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1a8b92ef0e6647a7ae6d12ce3e5bd370)](https://www.codacy.com/gh/saikusal/embedded_project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saikusal/embedded_project&amp;utm_campaign=Badge_Grade)|
+
