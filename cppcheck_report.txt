@@ -1,0 +1,14 @@
+seatHeatingApp.c:59:24: style: Condition 'temp_reading>200' is always true [knownConditionTrueFalse]
+  else if (temp_reading>200 && temp_reading<=500)
+                       ^
+seatHeatingApp.c:54:19: note: Assuming that condition 'temp_reading<=200' is not redundant
+  if (temp_reading<=200)
+                  ^
+seatHeatingApp.c:59:24: note: Condition 'temp_reading>200' is always true
+  else if (temp_reading>200 && temp_reading<=500)
+                       ^
+seatHeatingApp.c:47:13: style: The scope of the variable 'temp_reading' can be reduced. [variableScope]
+   uint16_t temp_reading=0;
+            ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
