@@ -32,4 +32,7 @@ PWM output and temperature displayed on the serial monitor will be according to 
 ![Final Output](simulation/final_output.JPG)
 #### CI and Code Quality
 
-
+####Code Inspector
+<a href="https://frontend.code-inspector.com/public/user/github/saikusal">
+   <img src="https://code-inspector.com/public/badge/user/github/saikusal?style=dark" alt="code inspector badge" />
+</a>
